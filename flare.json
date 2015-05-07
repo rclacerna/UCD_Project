@@ -1,0 +1,115 @@
+{
+    "name": "flare",
+    "children": [
+        {
+            "name": "First Group",
+            "children": [
+                {"name": "Ardmulchan", "size": 15700},
+                {"name": "Castledermot", "size": 4700},
+                {"name": "Hempstown", "size": 10700},
+                {"name": "Kiltiernay", "size": 17100},
+                {"name": "Loughcrew O", "size": 6500},
+                {"name": "Llanbedr", "size": 5900},
+                {"name": "Castlerigg", "size": 9300},
+                {"name": "Pierowall", "size": 8900}
+            ]
+        },
+        {
+            "name": "Second Group",
+            "children": [
+                {"name": "Ballinvally 4", "size": 3500},
+                {"name": "Baltinglass", "size": 6700},
+                {"name": "Baltinglass II", "size": 4600},
+                {"name": "Carnanmore", "size": 5000},
+                {"name": "Cloverhill", "size": 16000},
+                {"name": "Drumreagh", "size": 5000},
+                {"name": "Kings Mountain", "size": 1200},
+                {"name": "Knockroe E", "size": 4400},
+                {"name": "Knowth 3", "size": 3500},
+                {"name": "Knowth 5", "size": 3300},
+                {"name": "Knowth 8", "size": 4200},
+                {"name": "Knowth 12", "size": 1700},
+                {"name": "Listoghil", "size": 3500},
+                {"name": "Loughcrew K", "size": 1700},
+                {"name": "Loughcrew V", "size": 12400},
+                {"name": "Moylough", "size": 1500},
+                {"name": "Rathkenny", "size": 6700},
+                {"name": "Tibradden", "size": 3000},
+                {"name": "Tournant", "size": 4700},
+                {"name": "Bryn Celli Ddu", "size": 2700},
+                {"name": "Temple Wood", "size": 2900},
+                {"name": "Eday Manse", "size": 4700},
+                {"name": "Frith", "size": 1200}
+
+            ]
+        },
+
+        {
+            "name": "Third Group",
+            "children": [
+                {"name": "Baltinglass I", "size": 3200},
+                {"name": "Banagher", "size": 8700},
+                {"name": "Clonasillagh", "size": 9000},
+                {"name": "Killin", "size": 7300},
+                {"name": "Knockmany", "size": 52300},
+                {"name": "Knockroe enceinte", "size": 27500},
+                {"name": "Knockroe W", "size": 26100},
+                {"name": "Knowth 13", "size": 15500},
+                {"name": "Knowth 18", "size": 4400},
+                {"name": "Loughcrew H", "size": 26700},
+                {"name": "Loughcrew R2", "size": 6500},
+                {"name": "Loughcrew S", "size": 26300},
+                {"name": "Loughcrew T", "size": 75500},
+                {"name": "Loughcrew W", "size": 23100},
+                {"name": "Loughcrew X1", "size": 13200},
+                {"name": "Mullagharoy", "size": 9200},
+                {"name": "Tara", "size": 9400}
+            ]
+        },
+        {
+
+            "name": "Fourth Group",
+            "children": [
+                {"name": "Clear Island", "size": 8400},
+                {"name": "Cregg", "size": 5700},
+                {"name": "Dowth", "size": 48500},
+                {"name": "Dowth N", "size": 48400},
+                {"name": "Dowth S", "size": 50200},
+                {"name": "Dun Laoghaire", "size": 30700},
+                {"name": "Fourknocks I", "size": 51700},
+                {"name": "Knowth", "size": 109200},
+                {"name": "Knowth E", "size": 99000},
+                {"name": "Knowth W", "size": 26100},
+                {"name": "Knowth 2", "size": 19900},
+                {"name": "Knowth 4", "size": 21300},
+                {"name": "Knowth 14", "size": 39000},
+                {"name": "Knowth 15", "size": 23900},
+                {"name": "Knowth 16", "size": 29300},
+                {"name": "Knowth 17", "size": 31600},
+                {"name": "Loughcrew F", "size": 39700},
+                {"name": "Loughcrew I", "size": 52400},
+                {"name": "Loughcrew J", "size": 20800},
+                {"name": "Loughcrew L", "size": 68600},
+                {"name": "Loughcrew U", "size": 66100},
+                {"name": "Lyles Hill", "size": 11000},
+                {"name": "Malin More", "size": 22600},
+                {"name": "Millin Bay", "size": 68300},
+                {"name": "Mountainstown", "size": 10400},
+                {"name": "Newgrange", "size": 129900},
+                {"name": "Newgrange K", "size": 43500},
+                {"name": "Newgrange L", "size": 56200},
+                {"name": "Newgrange Z", "size": 16800},
+                {"name": "Seefin", "size": 16600},
+                {"name": "Sess Kilgreen", "size": 31400},
+                {"name": "Barclodiad y Gawres", "size": 32100},
+                {"name": "Calderstones", "size": 32000},
+                {"name": "Glassonby", "size": 9200},
+                {"name": "Cuween Hill", "size": 17000},
+                {"name": "Holm of Papa Westray", "size": 22800},
+                {"name": "Maeshowe", "size": 37200},
+                {"name": "Quoyness", "size": 8900},
+                {"name": "Wideford Hill", "size": 13300}
+            ]
+        }
+    ]
+}
